@@ -210,10 +210,13 @@ footer .grupo-1 .red-social a:hover{
         background-color: #19A7CE;
         align-items: center;
         color: #fff;
+        padding: 10px;
         font-size: 1.2rem;
     }
-    #referencia{
-        width: 800px;
+    #referrer{
+        width: 550px;
+        padding: 10px;
+        margin: 15px 10px;
     }
 
     .Container-principal{
