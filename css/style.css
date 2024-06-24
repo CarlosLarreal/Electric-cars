@@ -142,7 +142,7 @@ footer .grupo-1 .red-social a{
 footer .grupo-1 .red-social a:hover{
     color: aqua;
 }
-/***************Media Querys******************/
+/***************Media Query Mobile First******************/
 @media screen and (max-width: 576px) {
     .abrir-menu, .cerrar-menu{
         display: flex;
